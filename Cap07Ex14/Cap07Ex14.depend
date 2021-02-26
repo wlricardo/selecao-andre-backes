@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1613063670 source:c:\ws-linguagemc\cap07ex14\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+

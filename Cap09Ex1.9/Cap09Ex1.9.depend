@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1613339658 source:c:\ws-linguagemc\cap09ex1.9\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<locale.h>
+
